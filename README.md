@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khashi21
 - 👀 I’m interested in programing 
-- 🌱 I’m currently learning pyrhon advance 
+- 🌱 I’m currently learning python advance 
 - 💞️ I’m looking to collaborate on the same 
 - 📫 How to reach me on git hub or in insta Thapa_div
 - 😄 Pronouns: ...
